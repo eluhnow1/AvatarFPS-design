@@ -17,6 +17,8 @@ A central mechanic is the "Avatar State" system, where players can temporarily h
 
 ![Map of the game showing the layout with control points and Spirit Zone](map.png)
 
+![screenshot from the game](screenshot.png)
+
 ### 2. Purpose of the Game
 
 **Goal**: Control strategic zones to accumulate points while utilizing unique bending abilities and team synergy. The first team to reach 100 points wins, or the highest-scoring team when the time limit expires.
